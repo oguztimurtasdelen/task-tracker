@@ -1,10 +1,13 @@
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+All rights reserved by the Traversy Media --> https://www.youtube.com/c/TraversyMedia
+A sample individual task tracking project to learn Angular.js basics.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm run server` for a dev server to get data that written in db.json file. 
 
 ## Code scaffolding
 
